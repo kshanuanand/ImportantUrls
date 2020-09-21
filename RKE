@@ -1,2 +1,3 @@
 RKE Kubernetes Installation: https://rancher.com/docs/rke/latest/en/installation/#download-the-rke-binary
 RKE Github Repository: https://github.com/rancher/rke
+RKE Cubeconfig file: https://rancher.com/docs/rke/latest/en/kubeconfig/
